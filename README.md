@@ -4,8 +4,7 @@ This project was generated with NodeJS version 12.1.0.
 
 ## API
 Use APIs to retrieve the location and the weather. 
-https://darksky.net/dev
-https://www.mapbox.com/
+https://darksky.net/dev and https://www.mapbox.com/
 
 ## Install
 
